@@ -112,6 +112,14 @@ class _MoodTrackerScreenState extends State<MoodTrackerScreen> {
                   },
                 ),
               ),
+              const SizedBox(height: 20),
+
+              const Center(
+                child: Text(
+                  'Built by Muhammad Shahzaib',
+                  style: TextStyle(color: Colors.grey, fontSize: 14),
+                ),
+              ),
             ],
           ),
         ),
