@@ -19,8 +19,8 @@ A simple Flutter web application that allows users to log moods and view their p
 
 ## Live Demo
 
-[PASTE_VERCEL_URL](https://flutter-mood-tracker-web-app-mu.vercel.app/)
+(https://flutter-mood-tracker-web-app-mu.vercel.app/)
 
 ## GitHub Repository
 
-[PASTE_GITHUB_URL](https://github.com/shahzaib-io/Flutter-Mood-Tracker-Web-App)
+(https://github.com/shahzaib-io/Flutter-Mood-Tracker-Web-App)
