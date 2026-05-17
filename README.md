@@ -1,17 +1,26 @@
-# mood_tracker
+# Mood Tracker Flutter Web App
 
-A new Flutter project.
+A simple Flutter web application that allows users to log moods and view their past 7 mood entries in an animated horizontal timeline.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- CustomPainter mood faces
+- Happy, Neutral, and Sad expressions
+- Horizontal timeline
+- Tap animations
+- Responsive Flutter web UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- CustomPainter
+- AnimatedScale
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Live Demo
+
+[PASTE_VERCEL_URL](https://flutter-mood-tracker-web-app-mu.vercel.app/)
+
+## GitHub Repository
+
+[PASTE_GITHUB_URL](https://github.com/shahzaib-io/Flutter-Mood-Tracker-Web-App)
